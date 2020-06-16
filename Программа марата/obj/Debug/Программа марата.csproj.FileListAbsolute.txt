@@ -1,0 +1,10 @@
+C:\Users\haysa\source\repos\Программа марата\Программа марата\bin\Debug\Программа марата.exe.config
+C:\Users\haysa\source\repos\Программа марата\Программа марата\bin\Debug\Программа марата.exe
+C:\Users\haysa\source\repos\Программа марата\Программа марата\bin\Debug\Программа марата.pdb
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Debug\Программа марата.csprojAssemblyReference.cache
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Debug\Программа_марата.Form1.resources
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Debug\Программа_марата.Properties.Resources.resources
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Debug\Программа марата.csproj.GenerateResource.cache
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Debug\Программа марата.csproj.CoreCompileInputs.cache
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Debug\Программа марата.exe
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Debug\Программа марата.pdb

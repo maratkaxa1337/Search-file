@@ -1,0 +1,9 @@
+C:\Users\haysa\source\repos\Программа марата\Программа марата\bin\Release\Поиск файлов в каталоге.exe.config
+C:\Users\haysa\source\repos\Программа марата\Программа марата\bin\Release\Поиск файлов в каталоге.exe
+C:\Users\haysa\source\repos\Программа марата\Программа марата\bin\Release\Поиск файлов в каталоге.pdb
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Release\Программа_марата.Form1.resources
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Release\Программа_марата.Properties.Resources.resources
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Release\Программа марата.csproj.GenerateResource.cache
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Release\Программа марата.csproj.CoreCompileInputs.cache
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Release\Поиск файлов в каталоге.exe
+C:\Users\haysa\source\repos\Программа марата\Программа марата\obj\Release\Поиск файлов в каталоге.pdb
